@@ -1,5 +1,5 @@
 {
-  "name": "SGS Thesis TeX Live",
+  "name": "TeX Live",
   "image": "texlive/texlive@sha256:a38949128a1828f251bb5b4b2ec945644eb4962ce3adae1996f5edc839629bd1",
   "customizations": {
     "vscode": {
